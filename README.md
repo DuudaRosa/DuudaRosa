@@ -14,4 +14,4 @@ Crochet;
 Amigurumi;  
 Desenhos;  
 Telas;  
-<img src="https://i.pinimg.com/1200x/bb/d9/f3/bbd9f3326420414e5116458b299f9aba.jpg" width="600" alt="banner">
+<img src="https://i.pinimg.com/1200x/bb/d9/f3/bbd9f3326420414e5116458b299f9aba.jpg" width="200" alt="banner">
