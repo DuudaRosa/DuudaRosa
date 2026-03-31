@@ -9,7 +9,7 @@
 (47) 9 3385-1550
 @dudaa_rosa_
 eududadarosa@gmail.com
-##💰 Trabalho com:
+## 💰 Trabalho com:
 Crochet;
 Amigurumi;
 Desenhos;
