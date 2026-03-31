@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**DuudaRosa/DuudaRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Um pouco sobre mim:
 
 ## ✏️ Atualmente estudando:
  - desenvolvimento de games;  
