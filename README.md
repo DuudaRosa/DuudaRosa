@@ -5,7 +5,13 @@
 
 ✏️ Atualmente estudando: desenvolvimento de games;
 📝 Atualmente estudando no colégio Aventista e Blumenau
-🔎 Contato: eududadarosa@gmail.com
-💰 Atualmente trabalho com vendas e are (crochet, amigurumi, desenhos, telas, etc)
-# 📈 estatísticas:
-![Stats](https://github-readme-stats.vercel.app/api?username=DuudaRosa)
+##🔎 Contato: 
+(47) 9 3385-1550
+@dudaa_rosa_
+eududadarosa@gmail.com
+##💰 Trabalho com:
+Crochet;
+Amigurumi;
+Desenhos;
+Telas;
+
