@@ -15,3 +15,4 @@ Amigurumi;
 Desenhos;  
 Telas;  
 
+![HTML](https://img.shields.io/badge/HTML-pink)
