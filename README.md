@@ -6,9 +6,6 @@
 ## ✏️ Atualmente estudando:
  - desenvolvimento de games;  
  - colégio Aventista e Blumenau;
-   
-<img src="https://i.pinimg.com/1200x/bb/d9/f3/bbd9f3326420414e5116458b299f9aba.jpg" width="222" alt="banner">
-
 ## 🔎 Contato:  
 +55(47) 93385-1550  
 @dudaa_rosa_  
@@ -18,5 +15,5 @@ Crochet;
 Amigurumi;  
 Desenhos;  
 Telas;  
-
+<img src="https://i.pinimg.com/736x/03/bc/61/03bc6132dd8f992f4497d30e39533217.jpg" width="222" alt="banner">
 
