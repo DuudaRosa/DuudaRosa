@@ -15,4 +15,4 @@ Amigurumi;
 Desenhos;  
 Telas;  
 
-![HTML](https://img.shields.io/badge/HTML-pink)
+![HTML](https://img.shields.io/badge/estudante-pink)
